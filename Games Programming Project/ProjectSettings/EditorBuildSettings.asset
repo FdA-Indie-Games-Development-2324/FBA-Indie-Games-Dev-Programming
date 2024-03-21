@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Aidan Lorriman/Scenes/Controls.unity
+    guid: f2b2ef65eceb26745b176015dd6f9308
+  - enabled: 1
+    path: Assets/Aidan Lorriman/Scenes/Level 0.unity
+    guid: e07a11701e4d67446b8f72d8a2d2c20d
   m_configObjects: {}
